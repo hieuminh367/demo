@@ -146,7 +146,6 @@ void xoaPTtrungLap (int a[], int n, int p){
 }
 int main (){
 	int a[100];
-	int mang[100];
 	int n;
 	int s;
 	int p, m, k;
